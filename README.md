@@ -1,7 +1,7 @@
 ### Hi there Johnson here 👋
 - 🌱 I’m currently learning: JAVA --- C++
 - 🔭 I’m currently studying at University Of Auckland BE(Hons)
-- 📫 How to reach me: runjiazhang.nz@gmail.com
+- 📫 How to reach me: runjiazhang.nz@gmail.com (Personal) rzha972@aucklanduni.ac.nz(Work)
 - ⚡ Fun fact about me: FPS fan, Fat One Piece grind rn...
 
 <!--
