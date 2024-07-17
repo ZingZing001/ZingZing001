@@ -14,7 +14,7 @@ I'm a second-year Software Engineering student at the University of Auckland, wi
 - Proficient in **software development** and **debugging techniques**
 
 ## 🌱 I’m currently learning
-- Advanced concepts in **cybersecurity**
+- Advanced concepts in **data structure & algorithms**
 - Developing scalable applications with **.NET and Java**
 
 ## 💼 Work Experience
