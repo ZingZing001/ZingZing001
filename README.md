@@ -17,6 +17,7 @@ I'm a second-year Software Engineering student at the University of Auckland, wi
 - Advanced concepts in **data structure & algorithms**
 - Developing scalable applications with **.NET and Java**
 - **Azure/SQL Database** design
+- **Prompt Engineering**
 
 ## 💼 Work Experience
 - **Piano Tutor, At Home Tutor** (2020-2021)
