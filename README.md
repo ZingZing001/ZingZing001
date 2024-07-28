@@ -1,7 +1,7 @@
 # Hi there, I'm Johnson Zhang 👋
 
 ## 🚀 About Me
-I'm a second-year Software Engineering student at the University of Auckland, with a deep interest in cybersecurity and application development. I'm skilled in Python, Java, C, and MATLAB, and passionate about applying my skills to solve real-world problems.
+I'm a second-year Software Engineering student at the University of Auckland, with a deep interest in AI/Machine Learning and application development. I'm skilled in Python, Java, C, and MATLAB, and passionate about applying my skills to solve real-world problems.
 
 ## 🎓 Education
 - **Bachelor of Engineering (Honours), Software Engineering**
