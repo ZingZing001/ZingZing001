@@ -9,17 +9,20 @@ I'm a second-year Software Engineering student at the University of Auckland, wi
 - **Botany Downs Secondary College** (2018-2022)
 
 ## 👨‍💻 Technical Skills
-- Languages: **Python, Java, C, MATLAB**
+- Languages: **Python, Java, C, MATLAB, REACT, .JS**
 - Strong foundation in **data structures and algorithms**
 - Proficient in **software development** and **debugging techniques**
 
 ## 🌱 I’m currently learning
 - Advanced concepts in **data structure & algorithms**
 - Developing scalable applications with **.NET and Java**
+- **REACT** based Web Application
 - **Azure/SQL Database** design
 - **Prompt Engineering**
 
 ## 💼 Work Experience
+- **Private Tutor, At Home Tutor** (Present)
+  - NCEA Level 1,2 tutoring
 - **Piano Tutor, At Home Tutor** (2020-2021)
   - Provided individualized piano instruction, developing personalized lesson plans and fostering a passion for music in students.
 - **Senior Waiter/Supervisor, Yum Cha Restaurant, Sylvia Park** (2021-2022)
