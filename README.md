@@ -1,53 +1,27 @@
-# Hi there, I'm Johnson Zhang 👋
+# 💫 About Me:
+I'm a second-year Software Engineering student at the University of Auckland with a deep interest in AI/Machine Learning and application development. I'm skilled in Python, Java, C, MATLAB, and JavaScript. I am familiar with external libraries such as React and Maven, and I am passionate about applying my skills to solve real-world problems.<br><br>🎓 Education<br><br>Bachelor of Engineering (Honours), Software Engineering<br>University of Auckland (Graduating 2026)<br>Botany Downs Secondary College (2018-2022)<br><br>👨‍💻 Technical Skills<br><br>Languages: Python, Java, C, MATLAB, REACT, .JS<br><br>- Strong foundation in data structures and algorithms<br>- Proficient in software development and debugging techniques<br><br>🌱 I’m currently learning<br><br>- Advanced concepts in data structure & algorithms<br>- Developing scalable applications with .NET and Java<br>- REACT based Web Application<br>- Azure/SQL Database design<br>- Prompt Engineering<br>- Machine Learning/ Deep Learning<br><br>💼 Work Experience<br><br>- Private Tutor, At Home Tutor (Present)<br>- NCEA Level 1,2 tutoring<br>- Piano Tutor, At Home Tutor (2020-2021)<br>- Provided individualized piano instruction, developing personalized lesson plans and fostering a passion for music in students.<br>- Senior Waiter/Supervisor, Yum Cha Restaurant, Sylvia Park (2021-2022)<br>- Managed daily operations, staff training, and customer relations, ensuring high standards of service and satisfaction.<br>- BOBARISTA, Hulucat, Auckland (2021-Present)<br>- Ensured customer satisfaction and supported team goals in a busy milk tea environment.<br><br>🏆 Achievements<br>- University of Auckland Academic Potential Scholarship Receiver (Tier 2) (2022)<br>- Piano Level 10 Award (2020)<br>- Black-Belt Second Dan II, TaekWonDo (2023)<br><br>📚 Volunteer Work<br><br>- Elim Church Christmas Packing Crew (2020)<br>- Prepared and assembled holiday packages for families in need.<br>- Half Moon Bay Beach Cleanup Crew (2019)<br>- Participated in beach clean-up efforts, educating the community on environmental conservation.<br><br>📫 How to reach me:<br><br>Email: runjiahzhang.nz@gmail.com<br>Phone: +64 210-239-6903<br><br>
 
-## 🚀 About Me
-I'm a second-year Software Engineering student at the University of Auckland with a deep interest in AI/Machine Learning and application development. I'm skilled in Python, Java, C, MATLAB, and JavaScript. I am familiar with external libraries such as React and Maven, and I am passionate about applying my skills to solve real-world problems.
 
-## 🎓 Education
-- **Bachelor of Engineering (Honours), Software Engineering**
-  - University of Auckland (2023-Present)
-- **Botany Downs Secondary College** (2018-2022)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/runjiazhangnz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27057568) 
 
-## 👨‍💻 Technical Skills
-- Languages: **Python, Java, C, MATLAB, REACT, .JS**
-- Strong foundation in **data structures and algorithms**
-- Proficient in **software development** and **debugging techniques**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZingZing001&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZingZing001&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZingZing001&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌱 I’m currently learning
-- Advanced concepts in **data structure & algorithms**
-- Developing scalable applications with **.NET and Java**
-- **REACT** based Web Application
-- **Azure/SQL Database** design
-- **Prompt Engineering**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZingZing001&theme=buefy&no-frame=false&no-bg=false&margin-w=4)
 
-## 💼 Work Experience
-- **Private Tutor, At Home Tutor** (Present)
-  - NCEA Level 1,2 tutoring
-- **Piano Tutor, At Home Tutor** (2020-2021)
-  - Provided individualized piano instruction, developing personalized lesson plans and fostering a passion for music in students.
-- **Senior Waiter/Supervisor, Yum Cha Restaurant, Sylvia Park** (2021-2022)
-  - Managed daily operations, staff training, and customer relations, ensuring high standards of service and satisfaction.
-- **BOBARISTA, Hulucat, Auckland** (2021-Present)
-  - Ensured customer satisfaction and supported team goals in a busy milk tea environment.
+### ✍️ Dev Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-## 🏆 Achievements
-- **University of Auckland Academic Potential Scholarship Receiver (Tier 2)** (2022)
-- **Piano Level 10 Award** (2020)
-- **Black-Belt Second Dan II, TaekWonDo** (2023)
-
-## 📚 Volunteer Work
-- **Elim Church Christmas Packing Crew** (2020)
-  - Prepared and assembled holiday packages for families in need.
-- **Half Moon Bay Beach Cleanup Crew** (2019)
-  - Participated in beach clean-up efforts, educating the community on environmental conservation.
-
-## 📫 How to reach me:
-- Email: [runjiahzhang.nz@gmail.com](mailto:runjiahzhang.nz@gmail.com)
-- Phone: +64 210-239-6903
-
-## 🤝 Let's connect!
-- LinkedIn: www.linkedin.com/in/runjiazhangnz
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ZingZing001&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ZingZing001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my GitHub profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
