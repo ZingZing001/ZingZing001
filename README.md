@@ -6,16 +6,14 @@ I'm a second-year Software Engineering student at the University of Auckland wit
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZingZing001&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-📫 How to reach me:<br><br>Email: runjiahzhang.nz@gmail.com<br>Phone: +64 210-239-6903<br><be>
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/runjiazhangnz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27057568) 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZingZing001&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZingZing001&theme=vue&hide_border=false)<br/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/runjiazhangnz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27057568) 
+<br><br>Email: runjiahzhang.nz@gmail.com<br>Phone: +64 210-239-6903<br><be>
+
+
 
 
