@@ -1,7 +1,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ZingZing001&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-I'm a second-year Software Engineering student at the University of Auckland with a deep interest in AI/Machine Learning and application development. I'm skilled in Python, Java, C, MATLAB, and JavaScript. I am familiar with external libraries such as React and Maven, and I am passionate about applying my skills to solve real-world problems.<br><br>🌱 I’m currently learning<br><br>- Advanced concepts in data structure & algorithms<br>- Developing scalable applications with .NET and Java<br>- REACT based Web Application<br>- Azure/SQL Database design<br>- Prompt Engineering<br>- Machine Learning/ Deep Learning<br><br>📫 How to reach me:<br><br>Email: runjiahzhang.nz@gmail.com<br>Phone: +64 210-239-6903<br><br>
+I'm a second-year Software Engineering student at the University of Auckland with a deep interest in AI/Machine Learning and application development. I'm skilled in Python, Java, C, MATLAB, and JavaScript. I am familiar with external libraries such as React and Maven, and I am passionate about applying my skills to solve real-world problems.<br><br>🌱 I’m currently learning<br><br>- Advanced concepts in data structure & algorithms<br>- Developing scalable applications with .NET and Java<br>- REACT based Web Application<br>- Azure/SQL Database design<br>- Prompt Engineering<br>- Machine Learning/ Deep Learning<br><be>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZingZing001&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+📫 How to reach me:<br><br>Email: runjiahzhang.nz@gmail.com<br>Phone: +64 210-239-6903<br><be>
+
 
 
 ## 🌐 Socials:
@@ -12,7 +16,7 @@ I'm a second-year Software Engineering student at the University of Auckland wit
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZingZing001&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZingZing001&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZingZing001&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZingZing001&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
