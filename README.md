@@ -19,6 +19,7 @@ I'm a third-year Software Engineering student at the University of Auckland with
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/runjiazhangnz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27057568) 
 <br><br>Email: runjiahzhang.nz@gmail.com<br>Phone: +64 210-239-6903<br><be>
+<a href="https://stackoverflow.com/users/27057568/zingzing"><img src="https://stackoverflow.com/users/flair/27057568.png?theme=clean" width="208" height="58" alt="profile for ZingZing_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ZingZing_ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 
