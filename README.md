@@ -27,7 +27,7 @@ Projects listed below are ordered by community interest (stars) and illustrate t
 
 | Project | Stars | Highlights |
 |--------|------:|-----------|
-| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **38 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents, supports batch processing and customizable modes. Written in **Python**, it has attracted community interest with **7 forks**. |
+| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **40 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents, supports batch processing and customizable modes. Written in **Python**, it has attracted community interest with **7 forks**. |
 | [**Project Hand Game**](https://github.com/ZingZing001/Project_HandGame) | 1 star | Java‑based implementation of a hand‑game (rock‑paper‑scissors style), including game logic and GUI. |
 | [**Project Risk Map**](https://github.com/ZingZing001/Project_RiskMap) | 1 star | Strategy game written in Java that simulates territorial expansion and conflict—great for practicing data structures and algorithms. |
 | [**Project Venue Manager**](https://github.com/ZingZing001/Project_VenueManager) | 1 star | A Java application to manage venues, bookings and additional services efficiently—demonstrates back‑end and database integration. |
