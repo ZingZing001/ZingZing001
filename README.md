@@ -21,18 +21,23 @@ Grouped by category for clarity:
 - **Cloud & DevOps:** ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 - **Databases & Tools:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 
-### ⭐ Projects & Highlights
+### ⭐ Projects & Highlights
 
-Projects listed below are ordered by community interest (stars) and illustrate the breadth of my work:
+#### 🌟 Featured Open Source Project
 
 | Project | Stars | Highlights |
 |--------|------:|-----------|
 | [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **41 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents with ease. Supports batch processing and customizable removal modes. Written in **Python**, it has attracted community interest with **7 forks**. |
-| [**GuessWhosTheThief**](https://github.com/ZingZing001/GuessWhosTheThief) | 1 star | An interactive mystery game where players step into the role of a detective solving an art theft. Investigate suspects, gather clues, and solve puzzles using AI‑driven dialogue and decision‑making. Built with **Java** and **JavaFX**. |
-| [**javascript-amazon-project**](https://github.com/ZingZing001/javascript-amazon-project) | 1 star | A simplified e‑commerce web application inspired by Amazon. Built with vanilla **JavaScript**, HTML, and CSS, featuring product browsing, dynamic search bar with dropdown suggestions, and interactive shopping cart. [Live Demo](https://zingzing001.github.io/javascript-amazon-project/) |
-| [**PersonalWebsite-V2**](https://github.com/ZingZing001/PersonalWebsite-V2) | In Progress | Enhanced personal portfolio using **React** framework. A modern, responsive showcase of projects and skills. [Live Demo](https://zingzing001.github.io/PersonalWebsite-V2/) |
-| [**se310-plateful**](https://github.com/UOA-DCML/se310-plateful) | 1 star | Collaborative project at University of Auckland—a smart meal planning and recipe management application. Built with **JavaScript** as part of software engineering coursework with **12 forks**. |
-| [**G9_CanvasPlus**](https://github.com/SOFTENG-310-canvas-plus/G9_CanvasPlus) | Team Project | CanvasPlus is an AI‑powered student dashboard that syncs Canvas tasks with personal calendars, creating a smart, customisable homepage. Developed as a **JavaScript** team project for SOFTENG 310. |
+
+#### 💼 Personal & Academic Projects
+
+| Project | Highlights |
+|---------|-----------|
+| [**GuessWhosTheThief**](https://github.com/ZingZing001/GuessWhosTheThief) | An interactive mystery game where players step into the role of a detective solving an art theft. Investigate suspects, gather clues, and solve puzzles using AI‑driven dialogue and decision‑making. Built with **Java** and **JavaFX**. |
+| [**javascript-amazon-project**](https://github.com/ZingZing001/javascript-amazon-project) | A simplified e‑commerce web application inspired by Amazon. Built with vanilla **JavaScript**, HTML, and CSS, featuring product browsing, dynamic search bar with dropdown suggestions, and interactive shopping cart. [Live Demo](https://zingzing001.github.io/javascript-amazon-project/) |
+| [**PersonalWebsite-V2**](https://github.com/ZingZing001/PersonalWebsite-V2) | Enhanced personal portfolio using **React** framework. A modern, responsive showcase of projects and skills. [Live Demo](https://zingzing001.github.io/PersonalWebsite-V2/) |
+| [**se310-plateful**](https://github.com/UOA-DCML/se310-plateful) | Collaborative project at University of Auckland—a smart meal planning and recipe management application. Built with **JavaScript** as part of software engineering coursework with **12 forks**. |
+| [**G9_CanvasPlus**](https://github.com/SOFTENG-310-canvas-plus/G9_CanvasPlus) | CanvasPlus is an AI‑powered student dashboard that syncs Canvas tasks with personal calendars, creating a smart, customisable homepage. Developed as a **JavaScript** team project for SOFTENG 310. |
 
 _Beyond these, I maintain several other projects that explore web development, databases, and system automation—feel free to explore my repositories!_
 
