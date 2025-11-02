@@ -27,10 +27,13 @@ Projects listed below are ordered by community interest (stars) and illustrate t
 
 | Project | Stars | Highlights |
 |--------|------:|-----------|
-| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **40 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents, supports batch processing and customizable modes. Written in **Python**, it has attracted community interest with **7 forks**. |
-| [**Project Hand Game**](https://github.com/ZingZing001/Project_HandGame) | 1 star | Java‑based implementation of a hand‑game (rock‑paper‑scissors style), including game logic and GUI. |
-| [**Project Risk Map**](https://github.com/ZingZing001/Project_RiskMap) | 1 star | Strategy game written in Java that simulates territorial expansion and conflict—great for practicing data structures and algorithms. |
-| [**Project Venue Manager**](https://github.com/ZingZing001/Project_VenueManager) | 1 star | A Java application to manage venues, bookings and additional services efficiently—demonstrates back‑end and database integration. |
+| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **41 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents, supports batch processing and customizable modes. Written in **Python**, it has attracted community interest with **7 forks**. |
+| [**GuessWhosTheThief**](https://github.com/ZingZing001/GuessWhosTheThief) | 1 star | An interactive mystery game where players step into the role of a detective solving an art theft. Features AI‑driven dialogue, time‑limited gameplay, and dynamic decision‑making. Built with **Java** and **JavaFX**. |
+| [**postyy**](https://github.com/ZingZing001/postyy) | 1 star | React‑based web application inspired by forum platforms like Instagram and Twitter. Focuses on CRUD operations using **PostgreSQL**, **Prisma**, and deployed on **Railway**. |
+| [**javascript-amazon-project**](https://github.com/ZingZing001/javascript-amazon-project) | 1 star | A simplified e‑commerce web application inspired by Amazon. Built with vanilla **JavaScript**, featuring product browsing, dynamic search with dropdown suggestions, and an interactive shopping cart. [Live Demo](https://zingzing001.github.io/javascript-amazon-project/) |
+| [**Project Venue Manager**](https://github.com/ZingZing001/Project_VenueManager) | 1 star | A Java application to manage venues, bookings and additional services efficiently—demonstrates back‑end and database integration. |
+| [**Project Risk Map**](https://github.com/ZingZing001/Project_RiskMap) | 1 star | Strategy game written in Java that simulates territorial expansion and conflict—great for practicing data structures and algorithms. |
+| [**Project Hand Game**](https://github.com/ZingZing001/Project_HandGame) | 1 star | Java‑based implementation of a hand‑game (Odds and Evens style), including game logic and GUI. |
 
 _Beyond these, I maintain several other projects that explore web development, databases, and system automation—feel free to explore my repositories!_
 
