@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Third‑year Software Engineering student** at the **University of Auckland**.
+- 🎓 **Penultimte‑year Software Engineering student** at the **University of Auckland**.
 - 🔭 Passionate about **Artificial Intelligence**, **Machine Learning** and **application development**.
 - 🧰 Experienced with a wide range of programming languages and frameworks and always exploring new technologies.
 - 🌍 Enjoys solving real‑world problems through code and open to collaborating on innovative projects.
