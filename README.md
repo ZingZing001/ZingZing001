@@ -27,7 +27,7 @@ Grouped by category for clarity:
 
 | Project | Stars | Highlights |
 |--------|------:|-----------|
-| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **44 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents with ease. Supports batch processing and customizable removal modes. Written in **Python**, it has attracted community interest with **7 forks**. |
+| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | **61 stars** | A cross‑platform tool that removes watermarks from PDF and Word documents with ease. Supports batch processing and customizable removal modes. Written in **Python**, it has attracted community interest with **7 forks**. |
 
 #### 💼 Personal & Academic Projects
 
