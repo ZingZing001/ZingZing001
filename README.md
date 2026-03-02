@@ -29,7 +29,7 @@ Open To  : Collaborations, Internships, and Innovative Projects
 
 ## 💼 Industry Experience
 
-### 🏢 AI & Business Intern — EROAD *(Nov 2024 – Present)*
+### 🏢 AI & Software Engineer Intern — EROAD *(Nov 2024 – Present)*
 
 > EROAD is a fast-growing fleet management SaaS company. As an AI & Business Intern, I worked across two major streams:
 
