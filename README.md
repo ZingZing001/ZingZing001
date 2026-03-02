@@ -31,7 +31,7 @@ Open To  : Collaborations, Internships, and Innovative Projects
 
 ### 🏢 AI & Software Engineer Intern — EROAD *(Nov 2024 – Present)*
 
-> EROAD is a fast-growing fleet management SaaS company. As an AI & Business Intern, I worked across two major streams:
+> EROAD is a fast-growing fleet management SaaS company. As an AI & Software Engineer Intern, I worked across two major streams:
 
 **🤖 AI Agent Development (Microsoft Copilot)**
 - Attended seminars and conferences on **Microsoft Copilot** and the **AI Agent ecosystem**
