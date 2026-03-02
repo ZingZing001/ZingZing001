@@ -1,16 +1,10 @@
-<div align="center">
-
-# Hey, I'm Johnson Zhang 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&width=500&lines=Hey+I'm+Johnson+Zhang+👋;)](https://git.io/typing-svg)
 ### Software Engineer · AI & Automation Specialist · Full‑Stack Developer
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/runjiazhangnz)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27057568)
 ![](https://komarev.com/ghpvc/?username=ZingZing001)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://zingzing001.github.io/PersonalWebsite-V2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:runjiahzhang.nz@gmail.com)
-
-</div>
-
 ---
 
 ## 🧠 About Me
