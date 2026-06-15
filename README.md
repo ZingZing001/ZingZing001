@@ -86,7 +86,7 @@ Open To  : Collaborations, Internships, and Innovative Projects
 
 | Project | Stars | Description |
 |---------|------:|-------------|
-| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | ⭐ **61** | Cross‑platform Python tool that removes watermarks from PDF and Word documents. Supports batch processing and custom removal modes. **7 forks** from the community. |
+| [**WaterMarkRemovalTool**](https://github.com/ZingZing001/WaterMarkRemovalTool) | ⭐ **71** | Cross‑platform Python tool that removes watermarks from PDF and Word documents. Supports batch processing and custom removal modes. **7 forks** from the community. |
 
 ### 💼 Personal & Academic
 
